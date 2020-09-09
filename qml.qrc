@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>CustomField.qml</file>
+        <file>Popover.svg</file>
+        <file>Settings.qml</file>
+        <file>qmldir</file>
+        <file>Pop.qml</file>
+    </qresource>
+</RCC>
